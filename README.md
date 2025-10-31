@@ -1,4 +1,4 @@
-All projection over Glasgow City for use by the Community Planning Partnership
+All projection over the City of Glasgow for use by the Community Planning Partnership
 
 Not to be used for commercial purposes
 Crown copyright 2016
