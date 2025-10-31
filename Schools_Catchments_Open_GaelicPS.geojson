@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Schools_Catchments_Open",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID_1": 109, "UPRN": "906700012289", "SEEDCODE": 8432627, "PROPERTY_NAME": "Glasgow Gaelic School (Sgoil Ghaidhlig Ghlaschu)", "ADDRESS": "147 Berkley Street, Glasgow G3 7HP", "HYPERLINK": "https://www.glasgow.gov.uk/index.aspx?articleid=18093", "TYPE": "ND Primary" }, "geometry": { "type": "Point", "coordinates": [ -4.279977209418321, 55.86452455254372 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 1283, "UPRN": "906700509271", "SEEDCODE": 1003275, "PROPERTY_NAME": "Glendale Gaelic Primary School (Bunsgoil Ghaidhlig Ghleann Dail)", "ADDRESS": "2 Kenmuir Street, Glasgow, G41 1PH", "HYPERLINK": "https://www.glasgow.gov.uk/index.aspx?articleid=18086", "TYPE": "ND Primary" }, "geometry": { "type": "Point", "coordinates": [ -4.271887559155323, 55.84511540506815 ] } },
+{ "type": "Feature", "properties": { "OBJECTID_1": 2563, "UPRN": "906700360936", "SEEDCODE": 1005189, "PROPERTY_NAME": "Govan Gaelic Primary/Bun-sgoil Ghàidhlig Bhaile a' Ghobhainn", "ADDRESS": "3 Burndyke Court, Glasgow, G51 2BG", "HYPERLINK": "https://www.glasgow.gov.uk/index.aspx?articleid=18093", "TYPE": "ND Primary" }, "geometry": { "type": "Point", "coordinates": [ -4.302930796193162, 55.85869760186511 ] } }
+]
+}
