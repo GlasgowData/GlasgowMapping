@@ -2,6 +2,7 @@ All projection over Glasgow City for use by the Community Planning Partnership
 
 Not to be used for commercial purposes
 Crown copyright 2016
+
 1.Formats.
 
 The Community Wards are supplied in ESRI Shapefile and MapInfo Tab formats.
